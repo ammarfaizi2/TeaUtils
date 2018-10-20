@@ -1,1 +1,6 @@
+*.o
+*.swp
+*.swo
+*.tmp
+*.lock
 /vendor/
